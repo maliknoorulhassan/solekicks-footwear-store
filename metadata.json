@@ -1,0 +1,8 @@
+{
+  "name": "SoleKicks Footwear Store",
+  "description": "Premium footwear store with vibrant navigation, high-resolution sneakers catalog, quick-access cart floating button, and mobile bottom bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
